@@ -1,5 +1,4 @@
-## Efficient_Portfolios_Construction
-* Construction of Efficient Portfolios using Markowitz Model
+## Construction of Efficient Portfolios using Markowitz Model
 
 In the real world, investors are always interested in finding sets of assets that generate the highest return for the same level of risk. Emphasizing that risk is an inherent part of higher reward, Markowitz model can construct portfolios to optimize the expected return based on a given level of market risk assuming the investors are risk-averse.
 
